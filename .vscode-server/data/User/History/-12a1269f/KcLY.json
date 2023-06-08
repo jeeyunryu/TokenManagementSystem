@@ -1,0 +1,27 @@
+{
+    "C_Cpp.updateChannel": "Insiders",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "remote.SSH.remotePlatform": {
+        "203.252.112.25": "linux",
+        "203.252.112.26": "linux",
+        "203.252.121.252": "linux",
+        "localhost": "linux",
+        "tomato.ne.kr": "linux"
+    },
+    "window.zoomLevel": 1,
+    "editor.minimap.enabled": false,
+    "npm.keybindingsChangedWarningShown": true,
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "explorer.confirmDelete": false,
+    "workbench.colorTheme": "Solarized Light"
+}

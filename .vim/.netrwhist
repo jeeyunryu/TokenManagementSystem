@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/ubuntu/Test/Web3.0_GMS/src'
+let g:netrw_dirhist_8='/home/ubuntu/Test/Web3.0_GMS/src/pages/user'
+let g:netrw_dirhist_7='/home/ubuntu/Test/Web3.0_GMS/src/backend'
+let g:netrw_dirhist_6='/home/ubuntu/truffle-project'
+let g:netrw_dirhist_5='/home/ubuntu/Test/Web3.0_GMS/src'
+let g:netrw_dirhist_4='/home/ubuntu/Test/Web3.0_GMS'
+let g:netrw_dirhist_3='/home/ubuntu/Test/Web3.0_GMS/src/backend'
+let g:netrw_dirhist_2='/home/ubuntu/ganache_data'
+let g:netrw_dirhist_1='/home/ubuntu/Test'
